@@ -1,0 +1,79 @@
+/* { 
+  outline: solid 1px red;
+} */
+
+h1 {
+  text-align: center;
+  color: white;
+}
+
+h2 {
+  border-top: solid 14px lightsteelblue;
+  padding: 11px;
+  width: auto;
+  display: inline-block;
+}
+
+header {
+  height: 40px;
+  margin: auto 120px;
+}
+
+body {
+  min-height: 94vh;
+  background-color: grey;
+}
+
+main {
+  margin: auto 120px;
+  background-color: white;
+
+}
+
+.banner {
+  margin: auto;
+  background-color: darkblue;
+  height: 40px;
+}
+
+#general {
+  text-align: left;
+  display: inline-block;
+  height: 487px;
+}
+
+.important {
+  text-align: center;
+}
+
+.lorem1, .lorem2 {
+  text-align: center;
+  width: 40%;
+  margin: 0 auto;
+}
+
+.another {
+  width: 15%;
+    position: absolute;
+    top: 156px;
+    right: 140px;
+}
+
+.another > p {
+  margin: 0;
+  padding: 0;
+}
+
+.list-spacer {
+  width: 35%;
+}
+
+footer{
+  height: 90px;
+  background-color: darkblue;
+  margin: auto 120px;
+}
+
+.inline-block {
+  display: inline-block;
+}
